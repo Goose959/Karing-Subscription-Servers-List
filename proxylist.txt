@@ -51,3 +51,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234
 vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rutube.ru&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#%F0%9F%9A%80Amsterdam-8(%F0%9F%87%B3%F0%9F%87%B1)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080?#%F0%9F%9A%80Amsterdam-9(%F0%9F%87%B3%F0%9F%87%B1)
 vless://6a31ac89-5497-4ed2-8290-85ced08edf23@46.243.142.184:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=28.img.avito.st&fp=firefox&pbk=aAIzJV3mCIMMZUdhIJYpMmPH1dMcXQZOf-8t1__0GUE&sid=6d8f1a3b9c2e&type=tcp&headerType=none#%E2%9D%84%EF%B8%8FUusimaa(%F0%9F%87%AB%F0%9F%87%AE)
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?encryption=none&security=none&type=tcp&headerType=none&path=%2F#%E2%9A%BDLisbon(%F0%9F%87%B5%F0%9F%87%B9)
