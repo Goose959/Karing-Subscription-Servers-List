@@ -12,3 +12,4 @@ vless://d39a375e-2f51-4d26-8cf4-5b437bbb3c99@89.125.37.143:443?encryption=none&f
 vless://6efeb0bb-d938-4543-9d27-062148db8fad@195.189.98.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastne.incrediblespeed.online&fp=firefox&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&sid=f68f32d02dbd5147&type=tcp&headerType=none#%F0%9F%8C%B7Amsterdam%28%F0%9F%87%B3%F0%9F%87%B1%29
 vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@198.105.112.242:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kostaa9.api3-max.ru&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8C%B7Eindhoven%28%F0%9F%87%B3%F0%9F%87%B1%29
 vless://d0054d2b-3fea-486e-9592-ea6ce8d7b380@93.190.8.84:3090?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#%F0%9F%A5%99Istanbul%28%F0%9F%87%B9%F0%9F%87%B7%29
+ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443?#%F0%9F%A6%85Los%20Angeles%28%F0%9F%87%BA%F0%9F%87%B8%29
