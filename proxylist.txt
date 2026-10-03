@@ -15,3 +15,4 @@ vless://f3462e4a-aabe-4f73-97bb-573b706644f7@45.142.212.108:443?encryption=none&
 vless://f3462e4a-aabe-4f73-97bb-573b706644f7@download.zahar.top:443?encryption=none&security=tls&sni=download.zahar.top&fp=firefox&type=ws&path=%2Fwebsocket%3Fed%3D2560#%F0%9F%A5%9FBydgoszcz%28%F0%9F%87%B5%F0%9F%87%B1%29
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80?#%F0%9F%97%BCMarseille%28%F0%9F%87%AB%F0%9F%87%B7%29
 trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?security=tls&type=tcp&headerType=http&host=www.upwork.com#%E2%9B%B0%EF%B8%8FGeneva%28%F0%9F%87%A8%F0%9F%87%AD%29
+vless://f0a52dd3-4377-4402-a450-210bc81bcf25@109.176.202.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=id-nl-01.mintrocket.org&fp=firefox&pbk=XU7da9vkBex4TUPo1d-ctFY_N6zouBiCRnbnUK82i3Q&sid=fee1f986a72444db&type=tcp&headerType=none#%F0%9F%8D%BAFrankfurt%28%F0%9F%87%A9%F0%9F%87%AA%29
